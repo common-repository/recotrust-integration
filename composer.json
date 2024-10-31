@@ -1,0 +1,28 @@
+{
+  "name": "ac-components/ac-reco-plugin",
+  "description": "Sends invitation requests to RecoTrust and displays RecoTrust widgets on ecommerce sites",
+  "keywords": ["WordPress", "WooCommerce", "Recotrust"],
+  "homepage": "https://angrycreative.com",
+  "authors": [
+    {
+      "name": "Angry Creative AB",
+      "email": "hej@angrycreative.se",
+      "homepage": "https://angrycreative.se"
+    },
+    {
+      "name": "Elias Chalhoub",
+      "email": "elias.chalhoub@angrycreative.se",
+      "homepage": "https://angrycreative.se"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  }
+}

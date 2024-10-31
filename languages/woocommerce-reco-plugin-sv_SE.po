@@ -1,0 +1,137 @@
+# Copyright (C) 2018 Recotrust Integration Plugin
+# This file is distributed under the same license as the Recotrust Integration Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Recotrust Integration Plugin 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ac-reco-plugin\n"
+"POT-Creation-Date: 2018-05-08 09:51:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-05-08 13:31+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.7\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sv\n"
+
+#: includes/class-ac-reco-widget.php:10 includes/class-admin-general-options.php:112
+msgid "Recotrust"
+msgstr ""
+
+#: includes/class-ac-reco-widget.php:13
+msgid "This will display Recotrust recommendations on your woocommerce site."
+msgstr "Denna plugin kommer att Visa Recotrust rekommendationer på din WooCommerce webbplats."
+
+#: includes/class-ac-reco-widget.php:41
+msgid "Widget Style"
+msgstr "Widget stil"
+
+#: includes/class-ac-reco-widget.php:46
+msgid "Select"
+msgstr "Välj"
+
+#: includes/class-ac-reco-widget.php:47
+msgid "Mini"
+msgstr "Mini"
+
+#: includes/class-ac-reco-widget.php:48
+msgid "Small"
+msgstr "Liten"
+
+#: includes/class-ac-reco-widget.php:49
+msgid "High with Recos"
+msgstr "Hög med Recos"
+
+#: includes/class-ac-reco-widget.php:50
+msgid "Horizontal with Recos"
+msgstr "Horisontell med Recos"
+
+#: includes/class-ac-reco-widget.php:51
+msgid "Horizontal"
+msgstr "Horisontell"
+
+#: includes/class-ac-reco-widget.php:65
+msgid "Width"
+msgstr "Bredd"
+
+#: includes/class-ac-reco-widget.php:72
+msgid "Height"
+msgstr "Höjd"
+
+#: includes/class-ac-reco-widget.php:79
+msgid "Custom CSS Class (optional)"
+msgstr "Anpassade CSS-klass (tillval)"
+
+#: includes/class-ac-reco-widget.php:85
+msgid "Custom Background Color (optional)"
+msgstr "Anpassad bakgrundsfärg"
+
+#: includes/class-admin-general-options.php:153 includes/class-admin-general-options.php:157
+#: includes/class-admin-general-options.php:184
+msgid " "
+msgstr ""
+
+#: includes/class-admin-general-options.php:158
+msgid "Check this box to activate the plugin."
+msgstr "Markera denna ruta för att aktivera plugin."
+
+#: includes/class-admin-general-options.php:162
+msgid "Activate Recotrust Plugin"
+msgstr "Aktivera Recotrust plugin"
+
+#: includes/class-admin-general-options.php:165
+msgid "Recotrust ID"
+msgstr "Recotrust ID"
+
+#: includes/class-admin-general-options.php:167
+msgid "Your Recotrust ID can be found by logging in at Recotrust.com"
+msgstr "Ditt Recotrust-ID kan hittas genom att logga in på Recotrust.com"
+
+#: includes/class-admin-general-options.php:171
+msgid "Recotrust API Key"
+msgstr "Recotrust API-nyckel"
+
+#: includes/class-admin-general-options.php:173
+msgid "Email kundtjanst@recotrust.com to get your API key."
+msgstr "Skicka till kundtjanst@recotrust.com att få din API-nyckel."
+
+#: includes/class-admin-general-options.php:177
+msgid "Send review request (delay)"
+msgstr "Skicka granskningsförfrågan (fördröjning)"
+
+#: includes/class-admin-general-options.php:179
+msgid ""
+"Specify how many days after the order is placed we should send a review request. Example: If "
+"you shipping time is 7 days set 14 so the customer has a chance to experience your product."
+msgstr ""
+"Ange hur många dagar efter att beställningen är gjord som vi bör skicka en anmälningsförfrågan: "
+"Om leveranstiden är på 7 dagar ändra till 14 dagar, då kunden kan få en chans att testa "
+"produkten."
+
+#: includes/class-admin-general-options.php:126
+msgid "<h4>You can add the Recotrust widget in your theme <a href=\"%1$s\">widgets panel</a>.<h4>"
+msgstr ""
+"<h4>Du kan lägga till Recotrust widget i din tema <a href=\"%1$s\">widgets Panelen</a>.<h4>"
+
+#. Plugin Name of the plugin/theme
+msgid "Recotrust Integration Plugin"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.recotrust.se"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Sends invitation requests to Recotrust and displays Recotrust widgets on ecommerce sites."
+msgstr ""
+"Skickar Inbjudnings förfrågningar till Recotrust och visar Recotrust widgets på e-"
+"handelshemsidor."
+
+#. Author of the plugin/theme
+msgid "Reco.se, Angry Creatives, Elias Chalhoub"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://angrycreative.se"
+msgstr ""

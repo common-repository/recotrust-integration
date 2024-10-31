@@ -1,0 +1,133 @@
+# Copyright (C) 2018 Recotrust Integration Plugin
+# This file is distributed under the same license as the Recotrust Integration Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Recotrust Integration Plugin 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ac-reco-plugin\n"
+"POT-Creation-Date: 2018-05-08 09:51:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-ac-reco-widget.php:10
+#: includes/class-admin-general-options.php:112
+msgid "Recotrust"
+msgstr ""
+
+#: includes/class-ac-reco-widget.php:13
+msgid "This will display Recotrust recommendations on your woocommerce site."
+msgstr ""
+
+#: includes/class-ac-reco-widget.php:41
+msgid "Widget Style"
+msgstr ""
+
+#: includes/class-ac-reco-widget.php:46
+msgid "Select"
+msgstr ""
+
+#: includes/class-ac-reco-widget.php:47
+msgid "Mini"
+msgstr ""
+
+#: includes/class-ac-reco-widget.php:48
+msgid "Small"
+msgstr ""
+
+#: includes/class-ac-reco-widget.php:49
+msgid "High with Recos"
+msgstr ""
+
+#: includes/class-ac-reco-widget.php:50
+msgid "Horizontal with Recos"
+msgstr ""
+
+#: includes/class-ac-reco-widget.php:51
+msgid "Horizontal"
+msgstr ""
+
+#: includes/class-ac-reco-widget.php:65
+msgid "Width"
+msgstr ""
+
+#: includes/class-ac-reco-widget.php:72
+msgid "Height"
+msgstr ""
+
+#: includes/class-ac-reco-widget.php:79
+msgid "Custom CSS Class (optional)"
+msgstr ""
+
+#: includes/class-ac-reco-widget.php:85
+msgid "Custom Background Color (optional)"
+msgstr ""
+
+#: includes/class-admin-general-options.php:153
+#: includes/class-admin-general-options.php:157
+#: includes/class-admin-general-options.php:184
+msgid " "
+msgstr ""
+
+#: includes/class-admin-general-options.php:158
+msgid "Check this box to activate the plugin."
+msgstr ""
+
+#: includes/class-admin-general-options.php:162
+msgid "Activate Recotrust Plugin"
+msgstr ""
+
+#: includes/class-admin-general-options.php:165
+msgid "Recotrust ID"
+msgstr ""
+
+#: includes/class-admin-general-options.php:167
+msgid "Your Recotrust ID can be found by logging in at Recotrust.com"
+msgstr ""
+
+#: includes/class-admin-general-options.php:171
+msgid "Recotrust API Key"
+msgstr ""
+
+#: includes/class-admin-general-options.php:173
+msgid "Email kundtjanst@recotrust.com to get your API key."
+msgstr ""
+
+#: includes/class-admin-general-options.php:177
+msgid "Send review request (delay)"
+msgstr ""
+
+#: includes/class-admin-general-options.php:179
+msgid ""
+"Specify how many days after the order is placed we should send a review "
+"request. Example: If you shipping time is 7 days set 14 so the customer has "
+"a chance to experience your product."
+msgstr ""
+
+#: includes/class-admin-general-options.php:126
+msgid "<h4>You can add the Recotrust widget in your theme <a href="%1$s">widgets panel</a>.<h4>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Recotrust Integration Plugin"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.recotrust.se"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Sends invitation requests to Recotrust and displays Recotrust widgets on "
+"ecommerce sites."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Reco.se, Angry Creatives, Elias Chalhoub"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://angrycreative.se"
+msgstr ""
